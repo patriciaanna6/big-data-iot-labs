@@ -53,7 +53,7 @@ Men tänk att man har en stor mängd dataset , Big data exempel från ett föret
 Efter man har läst in datan vill man veta vad man har fått: 
 
 df.head()          # Första raderna
-[df.info](http://df.info/)()          # Datatyper, minne, null-värden
+df.info           # Datatyper, minne, null-värden
 df.describe()      # Statistisk sammanfattning
 df.shape           # Antal rader och kolumner
 df.columns         # Kolumnnamn
