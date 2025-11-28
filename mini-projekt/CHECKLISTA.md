@@ -7,9 +7,9 @@ Använd denna checklista för att säkerställa att ni har gjort allt!
 Deadline: Torsdag 4 december kl 23:59
 Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 
----
+### V uppgift
 
-## STEG 1: DATAINSAMLING (10p)
+## STEG 1: DATAINSAMLING 
 
 - [ ] Importerat pandas
 - [ ] Laddat in cleaned_iot_data.csv
@@ -20,7 +20,7 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 
 ---
 
-## STEG 2: DATARENSNING (15p)
+## STEG 2: DATARENSNING 
 
 - [ ] Kollat efter saknade värden med `.isnull().sum()`
 - [ ] Kollat efter duplikater med `.duplicated().sum()`
@@ -30,7 +30,7 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 
 ---
 
-## STEG 3: DATAANALYS (40p)
+## STEG 3: DATAANALYS 
 
 ### Analys 1
 - [ ] Valt vilken analys att göra
@@ -46,16 +46,11 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 - [ ] Lagt till titel, labels, legend på grafen
 - [ ] Skrivit 2-3 meningar om resultatet
 
-### Analys 3
-- [ ] Valt vilken analys att göra
-- [ ] Skrivit kod för analysen
-- [ ] Skapat en graf med matplotlib
-- [ ] Lagt till titel, labels, legend på grafen
-- [ ] Skrivit 2-3 meningar om resultatet
+
 
 ---
 
-## STEG 4: PREDIKTIV MODELL (25p)
+## STEG 4: PREDIKTIV MODELL 
 
 ### Val av features
 - [ ] Valt minst 3 features (X)
@@ -78,7 +73,7 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 
 ---
 
-## STEG 5: REKOMMENDATIONER (10p)
+## STEG 5: REKOMMENDATIONER 
 
 ### Rekommendation 1
 - [ ] Skrivit titel
@@ -86,17 +81,6 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 - [ ] Beskrivet åtgärd (vad ska göras?)
 - [ ] Beskrivet effekt (vad händer?)
 
-### Rekommendation 2
-- [ ] Skrivit titel
-- [ ] Förklarat varför
-- [ ] Beskrivet åtgärd
-- [ ] Beskrivet effekt
-
-### Rekommendation 3
-- [ ] Skrivit titel
-- [ ] Förklarat varför
-- [ ] Beskrivet åtgärd
-- [ ] Beskrivet effekt
 
 ---
 
@@ -112,7 +96,6 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 - [ ] Alla TODO är borttagna eller ifyllda
 - [ ] Kod är kommenterad
 - [ ] Text är på svenska
-- [ ] Inga "Lorem ipsum" eller placeholder-text kvar
 - [ ] Slutsats är skriven
 
 ### Formatering
@@ -143,7 +126,7 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 - [ ] Ha notebooken öppen
 - [ ] Visa 1 graf
 - [ ] Förklara R² score
-- [ ] Presentera 3 rekommendationer
+- [ ] Presentera 1 rekommendation(om ni valt VG)
 - [ ] Svara på frågor
 
 ---
@@ -152,9 +135,8 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 
 Om ni fastnar:
 1. Kolla i Lab 1-4 efter liknande exempel
-2. Fråga i Canvas diskussionsforum
-3. Maila läraren
-4. Kom på handledningstid
+2. Maila läraren
+3. Kom på handledningstid
 
 ---
 
