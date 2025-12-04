@@ -81,29 +81,7 @@ Redovisning: Fredag 5 december##  INNAN NI BÖRJAR
 - [ ] Beskrivet åtgärd (vad ska göras?)
 - [ ] Beskrivet effekt (vad händer?)
 
-
 ---
-
-## INNAN INLÄMNING
-
-### Tekniskt
-- [ ] Kört hela notebooken från början (Restart & Run All)
-- [ ] Alla celler körs utan fel
-- [ ] Alla grafer visas korrekt
-- [ ] Filnamn: Mini_Projekt_[Ditt_Namn].ipynb
-
-### Innehåll
-- [ ] Alla TODO är borttagna eller ifyllda
-- [ ] Kod är kommenterad
-- [ ] Text är på svenska
-- [ ] Slutsats är skriven
-
-### Formatering
-- [ ] Markdown-celler är snygga
-- [ ] Grafer har titlar och labels
-- [ ] Text är läsbar
-- [ ] Inget onödigt output (t.ex. jättelånga listor)
-
 ---
 
 ## INLÄMNING
